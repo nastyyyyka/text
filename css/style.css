@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+
+body{
+    background-color: rgb(215, 255, 255);
+}
+h3{
+    text-decoration: overline;
+    text-decoration-color: rgb(48, 52, 56) ;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 3px ;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#p1{
+    color: #942d35;
+    text-align: justify;
+    text-indent: 40px;
+    word-spacing: 6px;
+    line-height: 35px;
+    font-family: "Ojuju", sans-serif;
+}
+
+#ac{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px rgb(102, 83, 205);
+}
+
+#as{
+    text-align: left;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+#ad{
+    text-align: right;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-variant: small-caps;
+}
